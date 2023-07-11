@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+https://piccpndks.v.kcdnvip.com/audio/cctv1_2.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+https://piccpndks.v.kcdnvip.com/audio/cctv2_2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+https://piccpndks.v.kcdnvip.com/audio/cctv3_2.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+https://piccpndks.v.kcdnvip.com/audio/cctv4_2.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+https://piccpndks.v.kcdnvip.com/audio/cctv5_2.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+https://piccpndks.v.kcdnvip.com/audio/cctv6_2.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+https://piccpndks.v.kcdnvip.com/audio/cctv7_2.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+https://piccpndks.v.kcdnvip.com/audio/cctv8_2.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
+https://piccpndks.v.kcdnvip.com/audio/cctv9_2.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
+https://piccpndks.v.kcdnvip.com/audio/cctv10_2.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV11
+https://piccpndks.v.kcdnvip.com/audio/cctv11_2.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+https://piccpndks.v.kcdnvip.com/audio/cctv12_2.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
+https://piccpndks.v.kcdnvip.com/audio/cctv13_2.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+https://piccpndks.v.kcdnvip.com/audio/cctv14_2.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
+https://piccpndks.v.kcdnvip.com/audio/cctv15_2.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
+https://piccpndks.v.kcdnvip.com/audio/cctv16_2.m3u8
